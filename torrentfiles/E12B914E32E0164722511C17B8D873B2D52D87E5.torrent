@@ -1,0 +1,28 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+	<head>
+		<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+		<title>Torrage - Torrent Storage Cache</title>
+		<link rel="stylesheet" href="/style.css" type="text/css" media="screen" />
+	</head>
+	<body>
+		<div id="canvas"><a href="/"><img src="/images/logo.jpg" border="0" alt="Torrage - Torrent Storage Cache" vspace="10" width="" height="" /></a>
+			<h2>Torrage is a free service for caching torrent files online.</h2>
+	<p>404 - File not found.</p>
+	<p>The torrent you are looking for can not be found on the system, if you want to, you can <a href="/">add it to the cache</a>.</p>
+	<p>
+		<b>Note:</b> HEX values A-F must be in uppercase in torrent URL's
+		<br />
+		<br /><i>Example:</i>
+		<ul>
+			<li><b>OK:</b> http://torrage.com/torrent/<b>E12B914E32E0164722511C17B8D873B2D52D87E5</b>.torrent</li>
+			<br />
+			<li><b>ERROR:</b> http://torrage.com/torrent/<b>E12B914E32E0164722511C17B8D873B2D52D87E5</b>.torrent</li>
+		</ul>
+	</p>
+	<br />
+	<br />
+		</div>
+	</body>
+</html>
+		
